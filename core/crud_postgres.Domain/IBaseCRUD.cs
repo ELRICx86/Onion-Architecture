@@ -2,10 +2,10 @@
 {
     public interface IBaseCRUD<T>
     {
-            Task<T> GetAllAsync(T entity);
+            Task<List<T>> GetAllAsync();
             Task<T> AddAsync(T entity);
             Task<T> GetAsync(int id);
-            Task<bool> UpdateAsync(T entity);
+            Task<bool> UpdateAsync(int id,T entity);
             Task<bool> DeleteAsync(int id);
      
     }

@@ -79,10 +79,42 @@ namespace crud_postgresql.Repository.Employees
 
 
         #region GetAll
-        public Task<Employee> GetAllAsync(Employee entity)
+        public async Task<List<Employee>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var employees = new List<Employee>();
+
+            try
+            {
+                using (var connection = new NpgsqlConnection(_dBConn.connectionString))
+                {
+                    await connection.OpenAsync();
+                    using (var command = new NpgsqlCommand("SELECT * FROM public.get_all_employees()", connection))
+                    {
+                        using (var reader = await command.ExecuteReaderAsync())
+                        {
+                            while (await reader.ReadAsync())
+                            {
+                                var employee = new Employee
+                                {
+                                    Id = reader.GetInt32(reader.GetOrdinal("id")),
+                                    Name = reader.GetString(reader.GetOrdinal("name")),
+                                    Department = reader.GetString(reader.GetOrdinal("department")),
+                                    Salary = (int)reader.GetDecimal(reader.GetOrdinal("salary"))
+                                };
+                                employees.Add(employee);
+                            }
+                        }
+                    }
+                }
+            }
+            catch (NpgsqlException ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+
+            return employees;
         }
+
         #endregion
 
 
@@ -129,10 +161,38 @@ namespace crud_postgresql.Repository.Employees
 
 
         #region Update
-        public Task<bool> UpdateAsync(Employee entity)
+        public async Task<bool> UpdateAsync(int id,Employee entity)
         {
-            throw new NotImplementedException();
+            if (entity == null)
+            {
+                throw new ArgumentNullException(nameof(entity));
+            }
+
+            try
+            {
+                using (var connection = new NpgsqlConnection(_dBConn.connectionString))
+                {
+                    await connection.OpenAsync();
+
+                    using (var command = new NpgsqlCommand("SELECT public.update_employee(@p_id, @p_name, @p_department, @p_salary)", connection))
+                    {
+                        command.Parameters.AddWithValue("p_name", entity.Name );
+                        command.Parameters.AddWithValue("p_department", entity.Department );
+                        command.Parameters.AddWithValue("p_salary", entity.Salary);
+                        command.Parameters.AddWithValue("p_id", id);
+
+                        await command.ExecuteNonQueryAsync();
+                    }
+                }
+                return true;
+            }
+            catch (NpgsqlException ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+                return false;
+            }
         }
+
         #endregion
     }
 }

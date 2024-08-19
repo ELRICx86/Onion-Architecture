@@ -41,7 +41,7 @@ namespace crud_postgresql.Service.EmployeeService
         public async Task<EmployeeResponse> DeleteEmployee(int id)
         {
             
-          var res = await _employeeCRUD.DeleteAsync(id);
+            var res = await _employeeCRUD.DeleteAsync(id);
             if(res == true)
             {
                 return new EmployeeResponse()
@@ -59,24 +59,57 @@ namespace crud_postgresql.Service.EmployeeService
              
         }
 
-        public Task<EmployeeResponse> GetAllEmployee()
+        public async Task<EmployeesResponse> GetAllEmployees()
         {
-            throw new NotImplementedException();
+            var employees = await _employeeCRUD.GetAllAsync();
+
+            var employeeResponses = employees.Select(e => new EmployeeResponse
+            {
+                id = e.Id,
+                Name = e.Name,
+                Department = e.Department,
+                Salary = e.Salary,
+                //statusCode = 200 // Assuming all retrieved employees are valid
+            }).ToList();
+
+            var response = new EmployeesResponse
+            {
+                StatusCode = employeeResponses.Any() ? 200 : 404, // Status code 404 if no employees found
+                Employees = employeeResponses
+            };
+
+            return response;
         }
+
+
 
         public async Task<EmployeeResponse> GetEmployeeById(int id)
         {
             var res = await _employeeCRUD.GetAsync(id);
-            
             var temp = _mapper.Map<EmployeeResponse>(res);
             if (res != null) temp.statusCode = 200;
             else temp.statusCode = 500;
             return temp;
         }
 
-        public Task<EmployeeResponse> UpdateEmployee(int id, EmployeeRequest employee)
+        public async Task<EmployeeResponse> UpdateEmployee(int id, EmployeeRequest employee)
         {
-            throw new NotImplementedException();
+            Employee emp = _mapper.Map<Employee>(employee);
+            var res = await _employeeCRUD.UpdateAsync(id, emp);
+            if (res == true)
+            {
+                return new EmployeeResponse()
+                {
+                    statusCode = 200,
+                };
+            }
+            else
+            {
+                return new EmployeeResponse()
+                {
+                    statusCode = 500,
+                };
+            }
         }
     }
 }

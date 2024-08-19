@@ -13,7 +13,7 @@ namespace curd_postgresql.Application.Interfaces
         Task<EmployeeResponse> GetEmployeeById(int id);
         Task<EmployeeResponse> UpdateEmployee(int id, EmployeeRequest employee);
         Task<EmployeeResponse> DeleteEmployee(int id);
-        Task<EmployeeResponse> GetAllEmployee();
+        Task<EmployeesResponse> GetAllEmployees();
         Task<EmployeeResponse> CreateEmployee(EmployeeRequest employee);
     }
 }

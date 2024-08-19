@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curd_postgresql.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9893316a348abdbeabe815cdffca4d68251d0341")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac5e725562d4dd2f81dd463cefbb3bafa5872c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("curd_postgresql.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curd_postgresql.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

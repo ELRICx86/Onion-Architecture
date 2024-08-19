@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crud_postgresql.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9893316a348abdbeabe815cdffca4d68251d0341")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac5e725562d4dd2f81dd463cefbb3bafa5872c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("crud_postgresql.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crud_postgresql.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

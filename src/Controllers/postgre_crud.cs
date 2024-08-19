@@ -28,7 +28,7 @@ namespace crud_postgresql.Controllers
         [HttpGet("/getall")]
         public async Task<IActionResult> GetAllEmployees()
         {
-            return Ok();
+            return Ok(await _employeeService.GetAllEmployees());
         }
 
         [HttpDelete("/delete/{id}")]
@@ -45,9 +45,9 @@ namespace crud_postgresql.Controllers
         }
 
         [HttpPut("/update/{id}")]
-        public async Task<IActionResult> CreateNewEmployee(int id)
+        public async Task<IActionResult> UpdateEmployee(int id,[FromBody] EmployeeRequest employee)
         {
-            return Ok(new { message = $"employee with id:{id} updated" });
+            return Ok(await _employeeService.UpdateEmployee(id, employee));
         }
     }
 }

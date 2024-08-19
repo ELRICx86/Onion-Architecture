@@ -3,56 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\dependency\\repositorydependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:dependency\\repositorydependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08448312-EFD2-43B6-BC73-A2D020FB84F7}|..\\infrastructure\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\infrastructure\\crud_postgresql.repository\\employees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A8C633-03CA-4DE5-ACF1-D1E1ACB3F92F}|..\\infrastructure\\crude_postgresql.Service\\crud_postgresql.Service.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\infrastructure\\crude_postgresql.service\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\controllers\\postgre_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:controllers\\postgre_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\mappers\\requestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:mappers\\requestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42567293-A7FD-4106-8D43-A8CB1E21C970}|..\\core\\curd_postgresql.Application\\curd_postgresql.Application.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\core\\curd_postgresql.application\\dto\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71D0ECA-CE9A-41FA-883E-A263D6EC4AB9}|..\\core\\crud_postgres.Domain\\crud_postgresql.Domain.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\core\\crud_postgres.domain\\ibasecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\mappers\\responsemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:mappers\\responsemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\d779a1ad121c2e1ca89ef275362c3c5475fb36914408e131b7a4f8d80b694fe5\\src\\AutoMapper\\Configuration\\MapperConfigurationExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\48fdf30832bcd908a106b11a3ede28144fc161258ca6f60d5983815bca918573\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\crud_postgresql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:crud_postgresql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\src\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24ED5328-AF9A-4FFB-B62B-02B36820BDBA}|crud_postgresql.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\crud_postgresql.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{42567293-A7FD-4106-8D43-A8CB1E21C970}|..\\core\\curd_postgresql.Application\\curd_postgresql.Application.csproj|c:\\users\\tn-99348\\desktop\\c#\\oa\\core\\curd_postgresql.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,183 +49,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
-              "RelativeToolTip": "..\\..\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:08:57.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositoryDependency.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Dependency\\RepositoryDependency.cs",
-              "RelativeDocumentMoniker": "Dependency\\RepositoryDependency.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Dependency\\RepositoryDependency.cs",
-              "RelativeToolTip": "Dependency\\RepositoryDependency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T06:01:34.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RequestMapper.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Mappers\\RequestMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\RequestMapper.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Mappers\\RequestMapper.cs",
-              "RelativeToolTip": "Mappers\\RequestMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:22:15.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:09:46.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "..\\..\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
-              "RelativeToolTip": "..\\..\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:15:41.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "postgre_crud.cs",
               "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Controllers\\postgre_crud.cs",
               "RelativeDocumentMoniker": "Controllers\\postgre_crud.cs",
               "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Controllers\\postgre_crud.cs",
               "RelativeToolTip": "Controllers\\postgre_crud.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAMAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAMwDEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T03:43:47.591Z"
+              "WhenOpened": "2024-08-19T09:31:08.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActionMethodExecutor.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADwv6sAAAADAAAA",
+              "DocumentIndex": 3,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\curd_postgresql.Application\\Dto\\Response\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "..\\core\\curd_postgresql.Application\\Dto\\Response\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\curd_postgresql.Application\\Dto\\Response\\EmployeeResponse.cs",
+              "RelativeToolTip": "..\\core\\curd_postgresql.Application\\Dto\\Response\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T12:03:08.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ValueTask.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\48fdf30832bcd908a106b11a3ede28144fc161258ca6f60d5983815bca918573\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\48fdf30832bcd908a106b11a3ede28144fc161258ca6f60d5983815bca918573\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\48fdf30832bcd908a106b11a3ede28144fc161258ca6f60d5983815bca918573\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\48fdf30832bcd908a106b11a3ede28144fc161258ca6f60d5983815bca918573\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
-              "ViewState": "AQIAAOoCAAAAAAAAAADwvysDAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T12:03:09.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResponseMapper.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Mappers\\ResponseMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\ResponseMapper.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\Mappers\\ResponseMapper.cs",
-              "RelativeToolTip": "Mappers\\ResponseMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:22:35.499Z"
+              "WhenOpened": "2024-08-19T09:04:57.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MapperConfigurationExpression.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\d779a1ad121c2e1ca89ef275362c3c5475fb36914408e131b7a4f8d80b694fe5\\src\\AutoMapper\\Configuration\\MapperConfigurationExpression.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\d779a1ad121c2e1ca89ef275362c3c5475fb36914408e131b7a4f8d80b694fe5\\src\\AutoMapper\\Configuration\\MapperConfigurationExpression.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\AppData\\Local\\SourceServer\\d779a1ad121c2e1ca89ef275362c3c5475fb36914408e131b7a4f8d80b694fe5\\src\\AutoMapper\\Configuration\\MapperConfigurationExpression.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\d779a1ad121c2e1ca89ef275362c3c5475fb36914408e131b7a4f8d80b694fe5\\src\\AutoMapper\\Configuration\\MapperConfigurationExpression.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\curd_postgresql.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\core\\curd_postgresql.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\curd_postgresql.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\core\\curd_postgresql.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:07:42.499Z"
+              "WhenOpened": "2024-08-19T09:05:46.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControllerActionInvoker.cs",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs",
-              "ToolTip": "C:\\Users\\TN-99348\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\89212dcd2f3257a3e3eec5938d09a0833888ece5c501afa26d6bce46396c248c\\ControllerActionInvoker.cs",
-              "ViewState": "AQIAAG4BAAAAAAAAAADwv3wBAAAEAAAA",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\infrastructure\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\infrastructure\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\infrastructure\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
+              "RelativeToolTip": "..\\infrastructure\\crude_postgresql.Service\\EmployeeService\\EmployeeService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAawGEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T12:03:11.072Z"
+              "WhenOpened": "2024-08-19T09:02:20.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "crud_postgresql.Service.csproj",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\crud_postgresql.Service.csproj",
-              "RelativeDocumentMoniker": "..\\..\\crude_postgresql.Service\\crud_postgresql.Service.csproj",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\crude_postgresql.Service\\crud_postgresql.Service.csproj",
-              "RelativeToolTip": "..\\..\\crude_postgresql.Service\\crud_postgresql.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T05:07:06.792Z"
+              "DocumentIndex": 4,
+              "Title": "IBaseCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\crud_postgres.Domain\\IBaseCRUD.cs",
+              "RelativeDocumentMoniker": "..\\core\\crud_postgres.Domain\\IBaseCRUD.cs",
+              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\core\\crud_postgres.Domain\\IBaseCRUD.cs",
+              "RelativeToolTip": "..\\core\\crud_postgres.Domain\\IBaseCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:52:46.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "crud_postgresql.csproj",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\crud_postgresql.csproj",
-              "RelativeDocumentMoniker": "crud_postgresql.csproj",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\crud_postgresql.csproj",
-              "RelativeToolTip": "crud_postgresql.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T11:10:30.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "crud_postgresql.Repository.csproj",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj",
-              "RelativeDocumentMoniker": "..\\..\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj",
-              "RelativeToolTip": "..\\..\\crud_postgresql.Repository\\crud_postgresql.Repository.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T10:06:20.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\src\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T11:08:36.873Z"
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\infrastructure\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\infrastructure\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\infrastructure\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\infrastructure\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAcwL4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:51:12.706Z",
+              "EditorCaption": ""
             }
           ]
         }
