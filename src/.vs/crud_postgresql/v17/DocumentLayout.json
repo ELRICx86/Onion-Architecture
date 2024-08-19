@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,10 +81,6 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "EmployeeRepository.cs",
@@ -92,7 +88,6 @@
               "RelativeDocumentMoniker": "..\\..\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\TN-99348\\Desktop\\c#\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
               "RelativeToolTip": "..\\..\\crud_postgresql.Repository\\Employees\\EmployeeRepository.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T10:08:57.847Z"
             },
