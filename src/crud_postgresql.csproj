@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\core\crud_postgres.Domain\crud_postgresql.Domain.csproj" />
+    <ProjectReference Include="..\core\curd_postgresql.Application\curd_postgresql.Application.csproj" />
+    <ProjectReference Include="..\infrastructure\crude_postgresql.Service\crud_postgresql.Service.csproj" />
+    <ProjectReference Include="..\infrastructure\crud_postgresql.Repository\crud_postgresql.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

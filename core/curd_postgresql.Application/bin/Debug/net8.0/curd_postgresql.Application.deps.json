@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "curd_postgresql.Application/1.0.0": {
+        "runtime": {
+          "curd_postgresql.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curd_postgresql.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

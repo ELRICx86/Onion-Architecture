@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3omkac7HIDQQjGaTgvyiupQpJ/xssQCtYnA57k2evGmTGwON5t9LATHZQWwkpSJnuHyzqbFu5r3fO2x6SK7EIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TN-99348\\Desktop\\c#\\OA\\infrastructure\\crude_postgresql.Service\\crud_postgresql.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TN-99348\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\TN-99348\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TN-99348\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\TN-99348\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\TN-99348\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

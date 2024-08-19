@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zTqKOhsojuIdohBq393Q8Ia416CJbUB7HmvwO165Xo0=",
+  "Source": "crud_postgresql",
+  "BasePath": "_content/crud_postgresql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
